@@ -1,72 +1,60 @@
 # Public Report
 
-- Tema: Marketing Digital para PMEs
-- Aluno: Lucas de Britto Vieira
-  
-## Resumo
+- **Topic:** Digital Marketing for SMEs  
+- **Student:** Lucas de Britto Vieira  
+- **Supervisor:** Bruna Mayer  
 
-Ao longo deste módulo, foi realizada uma exploração com relação aos desafios enfrentados por Pequenas e Médias Empresas (PMEs) brasileiras em relação à presença digital e às estratégias de marketing. Isso resultou em uma proposta de solução, baseada em uma ferramenta de marketing digital acessível e inteligente, com foco em automação de conteúdo via WhatsApp.
+## Summary
 
-## Fase 1: Análise Exploratória e Construção de Hipóteses
+Throughout this module, an exploration was carried out regarding the challenges faced by Brazilian Small and Medium Enterprises (SMEs) in terms of digital presence and marketing strategies. This led to a proposed solution based on an accessible and intelligent digital marketing tool focused on content automation via WhatsApp.
 
-A Sprint 2 teve como foco entender o contexto das PMEs no Brasil frente à transformação digital. Os principais desafios identificados foram:
+## Phase 1: Exploratory Analysis and Hypothesis Building
 
-- Limitações financeiras e técnicas
+Sprint 2 focused on understanding the context of SMEs in Brazil amidst digital transformation. The main challenges identified were:
 
-- Falta de conhecimento estratégico em marketing digital
+- Financial and technical limitations  
+- Lack of strategic knowledge in digital marketing  
+- Difficulty in measuring results  
+- Inconsistent digital presence  
 
-- Dificuldade para mensurar resultados
+Based on this, general and specific hypotheses were constructed for SMEs, with an emphasis on the food sector. Proto-personas were also developed, such as Jorge (restaurant owner) and Ana (customer), to support future project decisions.
 
-- Presença digital inconsistente
+## Phase 2: Qualitative Research
 
-Com base nisso, foram construídas hipóteses gerais e específicas para PMEs, com destaque para o setor de alimentação. Também foram desenvolvidas proto-personas, como Jorge (dono de restaurante) e Ana (cliente), para embasar futuras decisões do projeto.
+An in-depth interview was conducted with a restaurant owner with over 20 years of experience, located in downtown São Paulo. The research brought key insights:
 
-## Fase 2: Pesquisa Qualitativa
+- Despite acknowledging the importance of digital marketing, managing daily operations prevents deeper involvement with digital tools  
+- Consultancies are seen as effective solutions but are considered expensive  
+- There is openness to digital solutions, though human presence is still valued  
+- The biggest pain points are time constraints, lack of technical knowledge, and difficulty interpreting metrics  
 
-Foi realizada uma entrevista em profundidade com um proprietário de restaurante com mais de 20 anos de experiência, localizado no centro de São Paulo. A pesquisa trouxe aprendizados fundamentais:
+## Phase 3: Benchmark and TAM, SAM, SOM
 
-- Apesar do reconhecimento da importância do marketing digital, a gestão da rotina impede um envolvimento mais profundo com as ferramentas
+During this phase, a market benchmark analysis was conducted using tools such as Jasper, HubSpot, Clarice AI, and Grammarly. This revealed an opportunity to create a more accessible and user-friendly solution.
 
-- Consultorias são vistas como soluções eficazes, porém custosas 
+Additionally, a TAM, SAM, and SOM analysis was carried out to estimate the potential market:
 
-- Há abertura para soluções digitais, mas a presença humana ainda é valorizada
+- **TAM:** R$ 30 billion/year  
+- **SAM:** R$ 10 billion/year  
+- **SOM (São Paulo, food sector):** R$ 176 million/year  
 
-- As maiores dores são tempo, conhecimento técnico e dificuldade em interpretar métricas
+This analysis reinforced the potential impact of the proposed solution.
 
-## Fase 3: Benchmark e TAM, SAM, SOM
+## Phase 4: Value Proposition Canvas and MVP Sketch
 
-Nesta fase, foi conduzida uma análise de mercado (benchmark) com ferramentas como Jasper, HubSpot, Clarice AI e Grammarly. A partir disso, foi identificado a oportunidade de criação de uma solução mais acessível e com usabilidade simplificada. 
+Based on the identified pain points and needs, the Value Proposition Canvas was developed, highlighting that the tool should:
 
-Além disso, foi realizada uma análise TAM, SAM e SOM, estimando o mercado potencial:
+- Automatically generate content using AI  
+- Schedule posts intelligently  
+- Provide simple reports via WhatsApp  
 
-- TAM: R$ 30 bilhões/ano
+Thus, it must be accessible, intuitive, and adapted to the reality of small business owners.
 
-- SAM: R$ 10 bilhões/ano
+An initial MVP sketch was also presented, which will operate via WhatsApp, automating marketing actions with just a few clicks. The proposal aims to democratize access to digital marketing in a simple, cost-effective, and efficient way.
 
-- SOM (São Paulo, setor de alimentação): R$ 176 milhões/ano
+## Next Steps
 
-Essa análise reforçou o potencial de impacto da solução proposta.
-
-## Fase 4: Canvas da Proposta de Valor e Esboço do MVP
-
-Com base nas dores e necessidades levantadas, foi desenvolvido o Canvas da Proposta de Valor, evidenciando que a ferramenta deve:
-
-- Gerar conteúdos automaticamente com IA
-
-- Agendar publicações de forma inteligente
-
-- Fornecer relatórios simples via WhatsApp
-
-Desse modo, deve ser acessível, intuitiva e adaptada à realidade do pequeno empreendedor.
-
-Foi também apresentado o esboço inicial do MVP, que funcionará via WhatsApp, automatizando ações de marketing com poucos cliques. A proposta busca democratizar o acesso ao marketing digital de forma simples, econômica e eficiente.
-
-## Próximos Passos
-
-- Detalhar funcionalidades técnicas (como integração com APIs do WhatsApp e Instagram)
-
-- Prototipar a interface conversacional da IA
-
-- Realizar testes com empreendedores reais
-
-- Refinar o MVP com base em feedbacks e validações
+- Detail technical features (such as integration with WhatsApp and Instagram APIs)  
+- Prototype the AI conversational interface  
+- Conduct tests with real entrepreneurs  
+- Refine the MVP based on feedback and validation  
